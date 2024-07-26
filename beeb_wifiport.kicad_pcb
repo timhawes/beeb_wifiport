@@ -1263,7 +1263,7 @@
 				)
 			)
 		)
-		(property "Value" "ESP32-S3-MINI-1"
+		(property "Value" "ESP32-S3-MINI-1-N4R2"
 			(at 0 3.55 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4717,7 +4717,7 @@
 				)
 			)
 		)
-		(property "Value" "PMEG2020CPA"
+		(property "Value" "PMEG2020CPA,115"
 			(at 0 1.95 0)
 			(layer "F.Fab")
 			(uuid "932ff73a-25cd-4ebb-902a-6af82418d0f1")
@@ -4986,7 +4986,7 @@
 				)
 			)
 		)
-		(property "Value" "User Port"
+		(property "Value" "613020243121"
 			(at -5.65 25.63 90)
 			(layer "F.Fab")
 			(uuid "afbfb135-e825-4f40-be71-4a8d6aec8f52")

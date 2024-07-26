@@ -7332,7 +7332,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ESP32-S3-MINI-1"
+		(property "Value" "ESP32-S3-MINI-1-N4R2"
 			(at 226.9841 39.37 0)
 			(effects
 				(font
@@ -8272,7 +8272,7 @@
 				)
 			)
 		)
-		(property "Value" "User Port"
+		(property "Value" "613020243121"
 			(at 101.6 182.88 0)
 			(effects
 				(font
@@ -8527,7 +8527,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PMEG2020CPA"
+		(property "Value" "PMEG2020CPA,115"
 			(at 117.856 49.276 90)
 			(effects
 				(font
